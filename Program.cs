@@ -12,3 +12,5 @@ Console.WriteLine("Your name: {0}", name);
 Console.WriteLine("Good Luck! Bye!");
 
 Console.WriteLine("Git at command!!!");
+
+Console.WriteLine("A have a GitHub repository!");
