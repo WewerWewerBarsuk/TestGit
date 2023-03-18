@@ -10,3 +10,5 @@ name = Console.ReadLine();
 Console.WriteLine("Your name: {0}", name);
 
 Console.WriteLine("Good Luck! Bye!");
+
+Console.WriteLine("Git at command!!!");
